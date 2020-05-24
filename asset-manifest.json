@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/joselriano.github.io/TodoListReact/static/css/main.2de65054.chunk.css",
+    "main.js": "/joselriano.github.io/TodoListReact/static/js/main.90dcad97.chunk.js",
+    "main.js.map": "/joselriano.github.io/TodoListReact/static/js/main.90dcad97.chunk.js.map",
+    "runtime-main.js": "/joselriano.github.io/TodoListReact/static/js/runtime-main.d1fdf423.js",
+    "runtime-main.js.map": "/joselriano.github.io/TodoListReact/static/js/runtime-main.d1fdf423.js.map",
+    "static/js/2.775025f2.chunk.js": "/joselriano.github.io/TodoListReact/static/js/2.775025f2.chunk.js",
+    "static/js/2.775025f2.chunk.js.map": "/joselriano.github.io/TodoListReact/static/js/2.775025f2.chunk.js.map",
+    "index.html": "/joselriano.github.io/TodoListReact/index.html",
+    "precache-manifest.66ebd78f6cccb47242c0e8d7602ceb91.js": "/joselriano.github.io/TodoListReact/precache-manifest.66ebd78f6cccb47242c0e8d7602ceb91.js",
+    "service-worker.js": "/joselriano.github.io/TodoListReact/service-worker.js",
+    "static/css/main.2de65054.chunk.css.map": "/joselriano.github.io/TodoListReact/static/css/main.2de65054.chunk.css.map",
+    "static/js/2.775025f2.chunk.js.LICENSE.txt": "/joselriano.github.io/TodoListReact/static/js/2.775025f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1fdf423.js",
+    "static/js/2.775025f2.chunk.js",
+    "static/css/main.2de65054.chunk.css",
+    "static/js/main.90dcad97.chunk.js"
+  ]
+}
